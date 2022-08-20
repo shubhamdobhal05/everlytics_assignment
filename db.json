@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "machine_name": "Auto Winding Machine",
+            "machine_id": "machine001",
+            "energy_consumed": 0,
+            "active_power": 0,
+            "apprent_power": 0,
+            "reactive_power": 0,
+            "current": 0,
+            "voltage": 0,
+            "power_factor": 0,
+            "idle_time": 0
+        },
+        {
+            "machine_name": "Boiler Machine",
+            "machine_id": "machine004",
+            "energy_consumed": 0,
+            "active_power": 0,
+            "apprent_power": 0,
+            "reactive_power": 0,
+            "current": 0,
+            "voltage": 0,
+            "power_factor": 0,
+            "idle_time": 0
+        }
+    ]
+}
